@@ -1,0 +1,11 @@
+#files {
+    display: none;
+}
+
+.upload-btn-container {
+    display: none;
+}
+
+.upload-btn {
+    cursor: pointer;
+}
